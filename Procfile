@@ -1,1 +1,1 @@
-Flask-MySQLdb==0.2.0
+web: gunicorn wsgi:app
